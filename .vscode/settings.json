@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "mcp2515.h": "c",
+        "canspi.h": "c",
+        "stm32f1xx_hal.h": "c"
+    }
+}
